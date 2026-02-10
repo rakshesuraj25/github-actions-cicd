@@ -66,3 +66,5 @@ on automating PyPI releases with GitHub Actions.
 
 Lab Experiment 04 – CI/CD using GitHub Actions
 
+Lab Experiment 04 – GitHub Actions CI/CD Trigger Test
+
